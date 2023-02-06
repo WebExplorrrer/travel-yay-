@@ -1,0 +1,43 @@
+*{
+ padding: 0%;
+ margin: 0%;
+}
+.logo{
+    width: 10%
+    ;
+}
+.logoimage{
+    width:100%
+    
+}
+a{
+text-decoration: none;
+color: #685f5d;
+margin-left: 35px;
+}
+header, .groupeddiv{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+.lens{
+  width: 1.5rem; 
+}
+.lensimage{
+    width:100%;
+}
+.joinbutton{
+    text-align: center;
+    background-color:#685F5D;
+    color: #F6F2F1;
+    padding:10px 25px;
+    border-radius: 50px;
+}
+/*.ttllogo{
+    width: 0.2px;
+}*/
+title{
+    left: 1px;
+    
+}
